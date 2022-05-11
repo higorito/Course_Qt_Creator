@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/imgs"/>
+    <qresource prefix="/">
+        <file>recursos/C++_logo.png</file>
+        <file>recursos/pythonLogo.png</file>
+        <file>recursos/qt_logo.png</file>
+    </qresource>
+</RCC>

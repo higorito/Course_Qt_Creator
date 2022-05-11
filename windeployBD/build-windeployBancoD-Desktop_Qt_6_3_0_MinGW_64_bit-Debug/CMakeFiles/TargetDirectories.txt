@@ -1,0 +1,5 @@
+C:/Users/Higor/Desktop/QT_creator/Curso/windeployBD/build-windeployBancoD-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/windeployBancoD.dir
+C:/Users/Higor/Desktop/QT_creator/Curso/windeployBD/build-windeployBancoD-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Higor/Desktop/QT_creator/Curso/windeployBD/build-windeployBancoD-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Higor/Desktop/QT_creator/Curso/windeployBD/build-windeployBancoD-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/windeployBancoD_autogen_timestamp_deps.dir
+C:/Users/Higor/Desktop/QT_creator/Curso/windeployBD/build-windeployBancoD-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/windeployBancoD_autogen.dir

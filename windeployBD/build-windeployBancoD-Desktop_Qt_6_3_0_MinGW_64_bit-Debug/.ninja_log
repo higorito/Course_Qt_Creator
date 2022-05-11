@@ -1,0 +1,19 @@
+# ninja log v5
+7	1932	6737572667838668	windeployBancoD_autogen/timestamp	e99bef851f8ef635
+7	1932	6737572667838668	windeployBancoD_autogen/mocs_compilation.cpp	e99bef851f8ef635
+1936	5862	6737572710834251	CMakeFiles/windeployBancoD.dir/main.cpp.obj	5b9a971debeb1ea0
+7	1932	6737572667838668	C:/Users/Higor/Desktop/QT_creator/Curso/windeployBD/build-windeployBancoD-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/windeployBancoD_autogen/timestamp	e99bef851f8ef635
+5916	6315	6737572715312132	windeployBancoD.exe	3283f72f28945cfb
+7	1932	6737572667838668	C:/Users/Higor/Desktop/QT_creator/Curso/windeployBD/build-windeployBancoD-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/windeployBancoD_autogen/mocs_compilation.cpp	e99bef851f8ef635
+1938	5916	6737572711373146	CMakeFiles/windeployBancoD.dir/mainwindow.cpp.obj	74524c8ab07ef74f
+1933	5827	6737572710465233	CMakeFiles/windeployBancoD.dir/windeployBancoD_autogen/mocs_compilation.cpp.obj	3046cf66a717ff1d
+0	28	0	CMakeFiles/clean.additional	baedbe210acaa455
+28	70	0	clean	577b940aee94fbd7
+45	2865	6738016690300816	windeployBancoD_autogen/timestamp	e99bef851f8ef635
+45	2865	6738016690300816	windeployBancoD_autogen/mocs_compilation.cpp	e99bef851f8ef635
+45	2865	6738016690300816	C:/Users/Higor/Desktop/QT_creator/Curso/windeployBD/build-windeployBancoD-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/windeployBancoD_autogen/timestamp	e99bef851f8ef635
+45	2865	6738016690300816	C:/Users/Higor/Desktop/QT_creator/Curso/windeployBD/build-windeployBancoD-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/windeployBancoD_autogen/mocs_compilation.cpp	e99bef851f8ef635
+2870	9612	6738016762893773	CMakeFiles/windeployBancoD.dir/windeployBancoD_autogen/mocs_compilation.cpp.obj	3046cf66a717ff1d
+2866	9634	6738016763113183	CMakeFiles/windeployBancoD.dir/main.cpp.obj	5b9a971debeb1ea0
+2914	9894	6738016765716531	CMakeFiles/windeployBancoD.dir/mainwindow.cpp.obj	74524c8ab07ef74f
+9895	10866	6738016775375601	windeployBancoD.exe	3283f72f28945cfb

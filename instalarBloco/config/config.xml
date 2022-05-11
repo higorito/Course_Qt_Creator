@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Instalador Bloco de Notas -H</Name>
+    <Version>1.0.0</Version>
+    <Title>Bloco de Notas</Title>
+    <Publisher>Higor</Publisher>
+    <!-- Directory name is used in component.xml -->
+    <StartMenuDir>bloco de notas</StartMenuDir>
+    <TargetDir>@HomeDir@/bloco_de_notas</TargetDir>
+</Installer>

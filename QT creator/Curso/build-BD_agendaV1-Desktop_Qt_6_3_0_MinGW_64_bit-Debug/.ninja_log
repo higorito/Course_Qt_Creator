@@ -1,0 +1,96 @@
+# ninja log v5
+5	3046	6737384004944175	build.ninja	1959db88457ac97f
+12	1472	6737383878896118	BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+12	1472	6737383878896118	BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+12	1472	6737383878896118	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+12	1472	6737383878896118	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+4064	12670	6737380706884172	CMakeFiles/BD_agendaV1.dir/main.cpp.obj	bf18aa065435e672
+1473	7961	6737383947300066	CMakeFiles/BD_agendaV1.dir/BD_agendaV1_autogen/mocs_compilation.cpp.obj	6a916662f798a217
+1487	8179	6737383949521703	CMakeFiles/BD_agendaV1.dir/login.cpp.obj	b7f76ad4362aed1d
+8235	9329	6737383960963902	BD_agendaV1.exe	cec980b683de4026
+1483	7915	6737383946871204	CMakeFiles/BD_agendaV1.dir/ja_principal.cpp.obj	ce3f6065916b13c6
+1476	8127	6737383948993121	CMakeFiles/BD_agendaV1.dir/inserir_ctt.cpp.obj	47a978266aa00fbb
+1480	8234	6737383950070240	CMakeFiles/BD_agendaV1.dir/pesquisar_ctt.cpp.obj	895f0dabdac4e418
+1492	4800	6737383915719313	CMakeFiles/BD_agendaV1.dir/editctts.cpp.obj	ded58694e39a3f9d
+22	5265	6737392049889261	BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+22	5265	6737392049889261	BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+22	5265	6737392049889261	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+22	5265	6737392049889261	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+5374	11221	6737392116989843	CMakeFiles/BD_agendaV1.dir/editctts.cpp.obj	ded58694e39a3f9d
+5370	25432	6737392255602345	CMakeFiles/BD_agendaV1.dir/main.cpp.obj	bf18aa065435e672
+5365	25434	6737392255871611	CMakeFiles/BD_agendaV1.dir/ja_principal.cpp.obj	ce3f6065916b13c6
+5266	25436	6737392255951392	CMakeFiles/BD_agendaV1.dir/BD_agendaV1_autogen/mocs_compilation.cpp.obj	6a916662f798a217
+5382	25438	6737392255981316	CMakeFiles/BD_agendaV1.dir/inserir_ctt.cpp.obj	47a978266aa00fbb
+5361	25440	6737392256061115	CMakeFiles/BD_agendaV1.dir/login.cpp.obj	b7f76ad4362aed1d
+21	4213	6737392910400144	BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+21	4213	6737392910400144	BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+21	4213	6737392910400144	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+21	4213	6737392910400144	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+4258	10575	6737392984365314	CMakeFiles/BD_agendaV1.dir/editctts.cpp.obj	ded58694e39a3f9d
+4265	14607	6737393023025709	CMakeFiles/BD_agendaV1.dir/inserir_ctt.cpp.obj	47a978266aa00fbb
+4248	14609	6737393023394734	CMakeFiles/BD_agendaV1.dir/login.cpp.obj	b7f76ad4362aed1d
+4214	14717	6737393025889252	CMakeFiles/BD_agendaV1.dir/BD_agendaV1_autogen/mocs_compilation.cpp.obj	6a916662f798a217
+4253	14759	6737393026313246	CMakeFiles/BD_agendaV1.dir/ja_principal.cpp.obj	ce3f6065916b13c6
+4261	14943	6737393028158315	CMakeFiles/BD_agendaV1.dir/pesquisar_ctt.cpp.obj	895f0dabdac4e418
+14943	20722	6737393085886756	BD_agendaV1.exe	cec980b683de4026
+17	667	6737394031048288	BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+17	667	6737394031048288	BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+17	667	6737394031048288	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+17	667	6737394031048288	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+707	4625	6737394070629892	CMakeFiles/BD_agendaV1.dir/editctts.cpp.obj	ded58694e39a3f9d
+703	7409	6737394098447807	CMakeFiles/BD_agendaV1.dir/ja_principal.cpp.obj	ce3f6065916b13c6
+714	7580	6737394100179116	CMakeFiles/BD_agendaV1.dir/inserir_ctt.cpp.obj	47a978266aa00fbb
+700	7759	6737394101972252	CMakeFiles/BD_agendaV1.dir/login.cpp.obj	b7f76ad4362aed1d
+710	7776	6737394102132421	CMakeFiles/BD_agendaV1.dir/pesquisar_ctt.cpp.obj	895f0dabdac4e418
+7777	8593	6737394110232410	BD_agendaV1.exe	cec980b683de4026
+60	1674	6737398788894333	BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+60	1674	6737398788894333	BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+60	1674	6737398788894333	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+60	1674	6737398788894333	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+1728	14066	6737398913212574	CMakeFiles/BD_agendaV1.dir/login.cpp.obj	b7f76ad4362aed1d
+1738	14147	6737398914031331	CMakeFiles/BD_agendaV1.dir/editctts.cpp.obj	ded58694e39a3f9d
+1734	14218	6737398914748259	CMakeFiles/BD_agendaV1.dir/ja_principal.cpp.obj	ce3f6065916b13c6
+1747	14433	6737398916906694	CMakeFiles/BD_agendaV1.dir/inserir_ctt.cpp.obj	47a978266aa00fbb
+1743	14659	6737398919180310	CMakeFiles/BD_agendaV1.dir/pesquisar_ctt.cpp.obj	895f0dabdac4e418
+14660	16748	6737398939988175	BD_agendaV1.exe	cec980b683de4026
+42	1829	6737399758998039	BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+42	1829	6737399758998039	BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+42	1829	6737399758998039	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+42	1829	6737399758998039	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+1904	12652	6737399867334970	CMakeFiles/BD_agendaV1.dir/editctts.cpp.obj	ded58694e39a3f9d
+1887	12738	6737399868203873	CMakeFiles/BD_agendaV1.dir/ja_principal.cpp.obj	ce3f6065916b13c6
+1908	12929	6737399870102109	CMakeFiles/BD_agendaV1.dir/inserir_ctt.cpp.obj	47a978266aa00fbb
+1892	13009	6737399870929906	CMakeFiles/BD_agendaV1.dir/login.cpp.obj	b7f76ad4362aed1d
+1899	13102	6737399871842481	CMakeFiles/BD_agendaV1.dir/pesquisar_ctt.cpp.obj	895f0dabdac4e418
+13103	14366	6737399884435215	BD_agendaV1.exe	cec980b683de4026
+43	3240	6737407110250464	BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+43	3240	6737407110250464	BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+43	3240	6737407110250464	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+43	3240	6737407110250464	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+3247	33970	6737407426011285	CMakeFiles/BD_agendaV1.dir/ja_principal.cpp.obj	ce3f6065916b13c6
+3261	34969	6737407431516570	CMakeFiles/BD_agendaV1.dir/editctts.cpp.obj	ded58694e39a3f9d
+3242	34971	6737407431506600	CMakeFiles/BD_agendaV1.dir/BD_agendaV1_autogen/mocs_compilation.cpp.obj	6a916662f798a217
+3412	34973	6737407431526546	CMakeFiles/BD_agendaV1.dir/inserir_ctt.cpp.obj	47a978266aa00fbb
+3251	34974	6737407431536520	CMakeFiles/BD_agendaV1.dir/login.cpp.obj	b7f76ad4362aed1d
+3255	34976	6737407431536520	CMakeFiles/BD_agendaV1.dir/pesquisar_ctt.cpp.obj	895f0dabdac4e418
+34977	50405	6737407590307176	BD_agendaV1.exe	cec980b683de4026
+17	800	6737477444315348	BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+17	800	6737477444315348	BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+17	800	6737477444315348	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+17	800	6737477444315348	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+838	16241	6737477593503399	CMakeFiles/BD_agendaV1.dir/ja_principal.cpp.obj	ce3f6065916b13c6
+852	16244	6737477593802603	CMakeFiles/BD_agendaV1.dir/editctts.cpp.obj	ded58694e39a3f9d
+844	16246	6737477593812581	CMakeFiles/BD_agendaV1.dir/login.cpp.obj	b7f76ad4362aed1d
+849	16247	6737477593912306	CMakeFiles/BD_agendaV1.dir/pesquisar_ctt.cpp.obj	895f0dabdac4e418
+856	16249	6737477594430926	CMakeFiles/BD_agendaV1.dir/inserir_ctt.cpp.obj	47a978266aa00fbb
+16249	19441	6737477630686675	BD_agendaV1.exe	cec980b683de4026
+12	806	6737478718702425	BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+12	806	6737478718702425	BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+12	806	6737478718702425	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/timestamp	bbf6d82b47308409
+12	806	6737478718702425	C:/Users/Higor/Desktop/QT creator/Curso/build-BD_agendaV1-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/BD_agendaV1_autogen/mocs_compilation.cpp	bbf6d82b47308409
+845	6781	6737478778452638	CMakeFiles/BD_agendaV1.dir/editctts.cpp.obj	ded58694e39a3f9d
+833	6825	6737478778891467	CMakeFiles/BD_agendaV1.dir/ja_principal.cpp.obj	ce3f6065916b13c6
+838	7212	6737478782741177	CMakeFiles/BD_agendaV1.dir/inserir_ctt.cpp.obj	47a978266aa00fbb
+836	7213	6737478782731202	CMakeFiles/BD_agendaV1.dir/login.cpp.obj	b7f76ad4362aed1d
+841	7220	6737478782840917	CMakeFiles/BD_agendaV1.dir/pesquisar_ctt.cpp.obj	895f0dabdac4e418
+7221	8716	6737478797736945	BD_agendaV1.exe	cec980b683de4026

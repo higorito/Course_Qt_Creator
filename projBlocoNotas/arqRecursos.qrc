@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/icones"/>
+    <qresource prefix="/">
+        <file>icons/icon_abrir_arq.png</file>
+        <file>icons/icon_ajuda.png</file>
+        <file>icons/icon_baixar.png</file>
+        <file>icons/icon_colar.png</file>
+        <file>icons/icon_copiar.png</file>
+        <file>icons/icon_desfazer.png</file>
+        <file>icons/icon_editar.png</file>
+        <file>icons/icon_excluir.png</file>
+        <file>icons/icon_fechar.png</file>
+        <file>icons/icon_novo.png</file>
+        <file>icons/icon_pesquisar.png</file>
+        <file>icons/icon_recortar.png</file>
+        <file>icons/icon_refazer.png</file>
+        <file>icons/icon_salvar.png</file>
+        <file>icons/icon_salvar_como.png</file>
+        <file>icons/icon_novo_arq_2.png</file>
+        <file>icons/icon_imprimir.png</file>
+    </qresource>
+</RCC>

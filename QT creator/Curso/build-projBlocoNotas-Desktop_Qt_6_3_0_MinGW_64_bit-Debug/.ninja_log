@@ -1,0 +1,20 @@
+# ninja log v5
+2	26273	6738045190058605	projBlocoNotas_autogen/timestamp	ea7f97b2f16c05be
+2	26273	6738045190058605	projBlocoNotas_autogen/mocs_compilation.cpp	ea7f97b2f16c05be
+2	26273	6738045190058605	C:/Users/Higor/Desktop/QT creator/Curso/build-projBlocoNotas-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/projBlocoNotas_autogen/timestamp	ea7f97b2f16c05be
+2	26273	6738045190058605	C:/Users/Higor/Desktop/QT creator/Curso/build-projBlocoNotas-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/projBlocoNotas_autogen/mocs_compilation.cpp	ea7f97b2f16c05be
+26297	36859	6738045345489123	projBlocoNotas_autogen/EWIEGA46WW/qrc_arqRecursos.cpp	c31884ceacb4a004
+26297	36859	6738045345489123	C:/Users/Higor/Desktop/QT creator/Curso/build-projBlocoNotas-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/projBlocoNotas_autogen/EWIEGA46WW/qrc_arqRecursos.cpp	c31884ceacb4a004
+36870	37603	6738045352978140	CMakeFiles/projBlocoNotas.dir/projBlocoNotas_autogen/EWIEGA46WW/qrc_arqRecursos.cpp.obj	6b4111c7374342ad
+36863	42018	6738045397136745	CMakeFiles/projBlocoNotas.dir/main.cpp.obj	a5083a43b1959492
+36873	42320	6738045400148117	CMakeFiles/projBlocoNotas.dir/projBlocoNotas_autogen/mocs_compilation.cpp.obj	752bac7c0a3d663b
+36866	52877	6738045505694966	CMakeFiles/projBlocoNotas.dir/mainwindow.cpp.obj	6de4e94bebc6bbf6
+52883	57844	6738045555321343	projBlocoNotas.exe	e6336da445f7072e
+30	27697	6738048669025902	projBlocoNotas_autogen/timestamp	ea7f97b2f16c05be
+30	27697	6738048669025902	projBlocoNotas_autogen/mocs_compilation.cpp	ea7f97b2f16c05be
+30	27697	6738048669025902	C:/Users/Higor/Desktop/QT creator/Curso/build-projBlocoNotas-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/projBlocoNotas_autogen/timestamp	ea7f97b2f16c05be
+30	27697	6738048669025902	C:/Users/Higor/Desktop/QT creator/Curso/build-projBlocoNotas-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/projBlocoNotas_autogen/mocs_compilation.cpp	ea7f97b2f16c05be
+28274	55361	6738048952444593	CMakeFiles/projBlocoNotas.dir/main.cpp.obj	a5083a43b1959492
+28278	55448	6738048952494123	CMakeFiles/projBlocoNotas.dir/projBlocoNotas_autogen/mocs_compilation.cpp.obj	752bac7c0a3d663b
+27767	55450	6738048953191877	CMakeFiles/projBlocoNotas.dir/mainwindow.cpp.obj	6de4e94bebc6bbf6
+55450	64432	6738049043095590	projBlocoNotas.exe	e6336da445f7072e

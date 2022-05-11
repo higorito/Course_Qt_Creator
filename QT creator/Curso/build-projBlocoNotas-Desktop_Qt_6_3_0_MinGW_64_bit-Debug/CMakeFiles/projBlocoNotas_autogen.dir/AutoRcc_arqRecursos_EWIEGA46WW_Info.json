@@ -1,0 +1,38 @@
+{
+	"BUILD_DIR" : "C:/Users/Higor/Desktop/QT creator/Curso/build-projBlocoNotas-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/projBlocoNotas_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Higor/Desktop/QT creator/Curso/build-projBlocoNotas-Desktop_Qt_6_3_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Higor/Desktop/QT creator/Curso/build-projBlocoNotas-Desktop_Qt_6_3_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas",
+	"INCLUDE_DIR" : "C:/Users/Higor/Desktop/QT creator/Curso/build-projBlocoNotas-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/projBlocoNotas_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/icons/icon_colar.png",
+		"C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/icons/icon_novo_arq_2.png",
+		"C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/icons/icon_editar.png",
+		"C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/icons/icon_imprimir.png",
+		"C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/icons/icon_abrir_arq.png",
+		"C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/icons/icon_salvar_como.png",
+		"C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/icons/icon_ajuda.png",
+		"C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/icons/icon_pesquisar.png",
+		"C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/icons/icon_salvar.png",
+		"C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/icons/icon_fechar.png",
+		"C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/icons/icon_baixar.png",
+		"C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/icons/icon_excluir.png",
+		"C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/icons/icon_copiar.png",
+		"C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/icons/icon_desfazer.png",
+		"C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/icons/icon_recortar.png",
+		"C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/icons/icon_novo.png",
+		"C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/icons/icon_refazer.png"
+	],
+	"LOCK_FILE" : "C:/Users/Higor/Desktop/QT creator/Curso/build-projBlocoNotas-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/projBlocoNotas_autogen.dir/AutoRcc_arqRecursos_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "arqRecursos" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_arqRecursos.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.3.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Higor/Desktop/QT creator/Curso/build-projBlocoNotas-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/projBlocoNotas_autogen.dir/AutoRcc_arqRecursos_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/Higor/Desktop/QT_creator/Curso/projBlocoNotas/arqRecursos.qrc",
+	"VERBOSITY" : 0
+}

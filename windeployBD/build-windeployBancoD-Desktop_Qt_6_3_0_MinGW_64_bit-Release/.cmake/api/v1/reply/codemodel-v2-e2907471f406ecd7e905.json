@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "windeployBancoD",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "windeployBancoD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-windeployBancoD-Release-f5e3f1d6f23edb5697e3.json",
+					"name" : "windeployBancoD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "windeployBancoD_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-windeployBancoD_autogen-Release-892cf42e294b1f0d9617.json",
+					"name" : "windeployBancoD_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "windeployBancoD_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-windeployBancoD_autogen_timestamp_deps-Release-3c8c1028166a85401f5f.json",
+					"name" : "windeployBancoD_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Higor/Desktop/QT_creator/Curso/windeployBD/build-windeployBancoD-Desktop_Qt_6_3_0_MinGW_64_bit-Release",
+		"source" : "C:/Users/Higor/Desktop/QT_creator/Curso/deployBANCO/windeployBancoD"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
